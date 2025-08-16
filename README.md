@@ -18,10 +18,10 @@ Understand the role of VPNs in protecting privacy and secure communication.
 
 ## Screenshots
 - *Before VPN Connection*  
-![Before VPN](./screenshots/before_vpn_ip.png)
+![Before VPN] (./screenshots/before_vpn_ip.png)
 
 - *After VPN Connection*  
-![After VPN](./screenshots/after_vpn_ip.png)
+![After VPN] (./screenshots/after_vpn_ip.png)
 
 ## Benefits of VPN
 - Hides real IP address and location.
